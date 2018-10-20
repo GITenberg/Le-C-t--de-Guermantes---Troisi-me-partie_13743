@@ -12,6 +12,7 @@ Title: Le Cote de Guermantes, Troisieme Partie
 Author: Marcel Proust
 
 Release Date: October 14, 2004 [EBook #13743]
+Last Updated: November 20, 2017
 
 Language: French
 
@@ -433,7 +434,7 @@ ne pourrais plus librement sortir.
 
 --Que Monsieur prenne garde de tomber, ils ne sont pas encore cloues, me
 cria Francoise. J'aurais du allumer. On est deja a la fin de
-_sectembre_, les beaux jour sont finis.
+_sectembre_, les beaux jours sont finis.
 
 Bientot l'hiver; au coin de la fenetre, comme sur un verre de Galle, une
 veine de neige durcie; et, meme aux Champs-Elysees, au lieu des jeunes
@@ -610,7 +611,7 @@ invisible dont cet ouvrage est l'histoire. Si cela fut advenu ce
 soir-la, cette voiture eut merite de demeurer plus memorable pour moi
 que celle du docteur Percepied sur le siege de laquelle j'avais compose
 cette petite description--precisement retrouvee il y avait peu de temps,
-arrangee, et vainement envoyee au _Figaro_--des cloches de Martainville.
+arrangee, et vainement envoyee au _Figaro_--des clochers de Martinville.
 Est-ce parce que nous ne revivons pas nos annees dans leur suite
 continue jour par jour, mais dans le souvenir fige dans la fraicheur ou
 l'insolation d'une matinee ou d'un soir, recevant l'ombre de tel site
@@ -1113,7 +1114,7 @@ demain soir.
 --Justement j'allais te parler de lui. Mais demain soir je dine chez ta
 tante Guermantes.
 
---Oui, il y a un geuleton a tout casser, demain, chez Oriane. Je ne
+--Oui, il y a un gueuleton a tout casser, demain, chez Oriane. Je ne
 suis pas convie. Mais mon oncle Palamede voudrait que tu n'y ailles pas.
 Tu ne peux pas te decommander? En tout cas, va chez mon oncle Palamede
 apres. Je crois qu'il tient a te voir. Voyons, tu peux bien y etre vers
@@ -1233,7 +1234,7 @@ Robert etaient l'image et dans laquelle se realise la parfaite amitie?
 Ce que la familiarite d'un Guermantes--au lieu de la distinction qu'elle
 avait chez Robert, parce que le dedain hereditaire n'y etait que le
 vetement, devenu grace inconsciente, d'une reelle humilite morale--eut
-decele de morgue vulgaire, j'avais pu en prendre consciente, non en M.
+decele de morgue vulgaire, j'avais pu en prendre conscience, non en M.
 de Charlus chez lequel les defauts de caractere que jusqu'ici je
 comprenais mal s'etaient superposes aux habitudes aristocratiques, mais
 chez le duc de Guermantes. Lui aussi pourtant, dans l'ensemble commun
@@ -2388,7 +2389,7 @@ melodies, si banales soient-elles, qui ont quelque chose de caressant et
 de facile, arrivent, grace a la culture symphonique, a mortifier en
 elles ce gout. Mais une fois arrivees a ce point, quand, emerveillees
 avec raison par l'eblouissant coloris orchestral de Richard Strauss,
-elles voient ce musicien acueillir avec une indulgence digne d'Auber les
+elles voient ce musicien accueillir avec une indulgence digne d'Auber les
 motifs plus vulgaires, ce que ces personnes aimaient trouve soudain dans
 une autorite si haute une justification qui les ravit et elles
 s'enchantent sans scrupules et avec une double gratitude, en ecoutant
@@ -5700,7 +5701,7 @@ donnait ainsi aux deux duchesses le piquant imprevu d'une grace
 exotiquement bourgeoise, louisphilippement indienne. Ou bien, sous Louis
 XIV, un Norpois avait epouse la fille du duc de Mortemart, dont le titre
 illustre frappait, dans le lointain de cette epoque, le nom que je
-trouvais terne et pouvais croire recent de Noirpois, y ciselait
+trouvais terne et pouvais croire recent de Norpois, y ciselait
 profondement la beaute d'une medaille. Et dans ces cas-la d'ailleurs, ce
 n'etait pas seulement le nom moins connu qui beneficiait du
 rapprochement: l'autre, devenu banal a force d'eclat, me frappait
@@ -5972,7 +5973,7 @@ j'etais en proie a cette seconde sorte d'exaltation, bien differente de
 celle qui nous est donnee par une impression personnelle, comme celle
 que j'avais eue dans d'autres voitures, une fois a Combray, dans la
 carriole du Dr Percepied, d'ou j'avais vu se peindre sur le couchant les
-clochers de Martainville; un jour, a Balbec, dans la caleche de Mme de
+clochers de Martinville; un jour, a Balbec, dans la caleche de Mme de
 Villeparisis, en cherchant a demeler la reminiscence que m'offrait une
 allee d'arbres. Mais dans cette troisieme voiture, ce que j'avais devant
 les yeux de l'esprit, c'etaient ces conversations qui m'avaient paru si
@@ -6330,7 +6331,7 @@ ecumeux de sa face, sa voix devenait tour a tour aigue et grave comme
 une tempete assourdissante et dechainee. (La force avec laquelle il
 parlait d'habitude, et qui faisait se retourner les inconnus dehors,
 etait centuplee, comme l'est un _forte_, si, au lieu d'etre joue au
-piano, il l'est a l'orchestre, et de plus se change en un _fortissime_.
+piano, il l'est a l'orchestre, et de plus se change en un _fortissimo_.
 M. de Charlus hurlait.) Pensez-vous qu'il soit a votre portee de
 m'offenser? Vous ne savez donc pas a qui vous parlez? Croyez-vous que la
 salive envenimee de cinq cents petits bonshommes de vos amis, juches les
@@ -6949,7 +6950,7 @@ soiree chez la princesse de Guermantes ne l'ennuyait pas, mais surtout
 il devait aller a une heure du matin, avec sa femme, a un grand souper
 et bal costume en vue duquel un costume de Louis XI pour lui et
 d'Isabeau de Baviere pour la duchesse etaient tout prets. Et le duc
-entendait ne pas etre trouble dans ces divertissement multiples par la
+entendait ne pas etre trouble dans ces divertissements multiples par la
 souffrance du bon Amanien d'Osmond. Deux autres dames porteuses de
 canne, Mme de Plassac et Mme de Tresmes, toutes deux filles du comte de
 Brequigny, vinrent ensuite faire visite a Basin et declarerent que
